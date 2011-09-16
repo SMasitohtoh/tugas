@@ -2,3 +2,4 @@
 2. Extract ke directory C:
 3. Setting environment variabel untuk path git
 4. Buka git cmd ke dalam folder installasi git
+5. restart komputer
