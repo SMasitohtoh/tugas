@@ -1,5 +1,4 @@
-1. Download terlebih dahulu software Portable
-2. Extract ke directory C:
-3. Setting environment variabel untuk path git
-4. Buka git cmd ke dalam folder installasi git
-5. restart komputer
+1. Open
+2. Edit
+3. Save
+4. Ad dan Commit 
